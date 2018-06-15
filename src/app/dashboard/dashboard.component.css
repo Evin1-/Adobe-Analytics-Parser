@@ -1,0 +1,11 @@
+/* DashboardComponent's private CSS styles */
+.second {
+  width: 100%;
+  min-height: 500px;
+  border: none;
+}
+
+textarea {
+  width: 100%;
+  min-height: 100px;
+}
